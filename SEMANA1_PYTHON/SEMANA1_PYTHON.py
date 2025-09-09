@@ -7,4 +7,13 @@
 def ejer2():
     print("\"Sebastian\"")
 
-ejer2()
+def ejer3():
+    num1=int(input("Ingrese número1 :"))
+    num2=int(input("Ingrese número2 :"))
+
+    print("Suma: ", (num1+num2))
+    print("Resta: ", (num1-num2))
+    print("Multiplicación: ", (num1*num2))
+    print("División: ", (num1/num2))
+
+ejer3()

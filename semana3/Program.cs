@@ -11,7 +11,7 @@ namespace semana3
     {
         static void Main(string[] args)
         {
-            ejer2();
+            ejer3();
             Console.ReadKey(); //detenimeinto de consola
         }
         static void ejer1()
@@ -33,6 +33,17 @@ namespace semana3
 
         static void ejer3()
         {
+            Console.Write("Ingrese núnmero 1: ");
+            int num1 = int.Parse(Console.ReadLine());
+
+            Console.Write("Ingrese núnmero 2: ");
+            int num2 = int.Parse(Console.ReadLine());
+
+            double divi = (double)num2 / (double)num2;
+            Console.WriteLine("Suma: " + (num1 + num2));
+            Console.WriteLine("Resta: " + (num1 - num2));
+            Console.WriteLine("Multiplicación: " + (num1 * num2));
+            Console.WriteLine("División: " + divi);
 
         }
 
