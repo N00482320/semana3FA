@@ -6,3 +6,11 @@ C:\Users\UPN\Desktop\Semana3FA\Fundamentos de algoritmos\semana3\obj\Debug\seman
 C:\Users\UPN\Desktop\Semana3FA\Fundamentos de algoritmos\semana3\obj\Debug\semana3.exe
 C:\Users\UPN\Desktop\Semana3FA\Fundamentos de algoritmos\semana3\obj\Debug\semana3.pdb
 C:\Users\UPN\Desktop\Semana3FA\Fundamentos de algoritmos\semana3\obj\Debug\semana3.exe.config
+C:\Users\UPN\Desktop\FA 4\semana3FA\semana3\bin\Debug\semana3.exe.config
+C:\Users\UPN\Desktop\FA 4\semana3FA\semana3\bin\Debug\semana3.exe
+C:\Users\UPN\Desktop\FA 4\semana3FA\semana3\bin\Debug\semana3.pdb
+C:\Users\UPN\Desktop\FA 4\semana3FA\semana3\obj\Debug\semana3.csproj.AssemblyReference.cache
+C:\Users\UPN\Desktop\FA 4\semana3FA\semana3\obj\Debug\semana3.exe.config
+C:\Users\UPN\Desktop\FA 4\semana3FA\semana3\obj\Debug\semana3.csproj.CoreCompileInputs.cache
+C:\Users\UPN\Desktop\FA 4\semana3FA\semana3\obj\Debug\semana3.exe
+C:\Users\UPN\Desktop\FA 4\semana3FA\semana3\obj\Debug\semana3.pdb

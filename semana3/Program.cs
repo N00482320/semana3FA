@@ -11,7 +11,7 @@ namespace semana3
     {
         static void Main(string[] args)
         {
-            ejer1();
+            ejer2();
             Console.ReadKey(); //detenimeinto de consola
         }
         static void ejer1()
@@ -24,6 +24,11 @@ namespace semana3
             carrera = Console.ReadLine();
 
             Console.WriteLine($"\n{nombre}, bienvenido al curso" + $"de Fundamentos de Algoritmo {carrera}");
+        }
+
+        static void ejer2()
+        {
+            Console.WriteLine("\"Sebastian\"");
         }
 
         static void ejer3()
