@@ -65,6 +65,14 @@ namespace semana3
 
         static void ejer5()
         {
+            Console.Write("Ingrese un número: ");
+            string num = Console.ReadLine();
+
+            int entero = int.Parse(num);
+            double deci = double.Parse(num);
+
+            Console.WriteLine("Resto: " + (entero % 2));
+            Console.WriteLine("Decimal: " + (deci / 3));
 
         }
 
